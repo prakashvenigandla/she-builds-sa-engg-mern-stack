@@ -1,11 +1,35 @@
-# Classroom Activities 
+# Topics Covered 
+
+Introduction to Software Development 
+● Software Development Lifecycle (SDLC) 
+● Types of Applications 
+● Roles in a Software Development Team 
+● Career Path of a Full Stack Developer 
+Understanding the Web 
+● Internet Fundamentals 
+● Client-Server Architecture 
+● Frontend, Backend and Database Interaction 
+● HTTP Request-Response Lifecycle 
+Programming Fundamentals 
+● Variables and Data Types 
+● Operators 
+● Conditional Statements 
+● Loops 
+● Functions
+● Arrays and Objects 
+Problem Solving & Logic Building 
+● Algorithm Design 
+● Flowcharts 
+● Pseudocode 
+● Breaking Down Real-world Problems
+## Classroom Activities 
 Activity 1: How the Internet Works 
 Students simulate the interaction between a browser, server, and database to understand how requests are processed and responses are returned. 
 Activity 2: Logic Building Challenge 
 Students solve progressively complex logical problems using flowcharts and pseudocode before implementing them in code. 
 Activity 3: Real-world Scenario Mapping 
 Students identify common applications they use daily and map their frontend, backend, and database components. 
-# Take-Home Assignment 
+## Take-Home Assignment 
 Personal Expense Calculator 
 Students develop a simple program that: 
 ● Accepts income and expense details 
