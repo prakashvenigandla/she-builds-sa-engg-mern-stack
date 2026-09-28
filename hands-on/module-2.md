@@ -1,9 +1,15 @@
-Classroom Activities 
+# Skills Demonstrated 
+● HTML5 
+● CSS3 
+● Responsive Design 
+● JavaScript DOM Manipulation 
+
+ ## Classroom Activities 
 Activity 1: Responsive Layout Design 
 Students build a responsive landing page that adapts to desktop, tablet, and mobile devices. Activity 2: Interactive Form Development 
 Students create a registration form with validation and user feedback mechanisms. Activity 3: DOM Manipulation Workshop 
 Students dynamically update webpage content based on user actions such as clicks and form submissions. 
-Take-Home Assignment 
+## Take-Home Assignment 
 Build a Personal Portfolio Website 
 Requirements: 
 ● About Me Section 
